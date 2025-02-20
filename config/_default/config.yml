@@ -24,7 +24,7 @@ menu:
 
 params:
   logo: "/maka-pfp.jpg"
-  favicon: "favicon.ico"
+  favicon: "favicon/favicon.ico"
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
@@ -32,7 +32,7 @@ params:
   profileMode:
     enabled: true
     title: "Le Dinh Hieu"
-    subtitle: An **InfoSec** student at **Posts and Telecommunication Institutes of Technology**
+    subtitle: An **InfoSec** student at **Posts and Telecommunication Institute of Technology**
     imageUrl: "maka-pfp.jpg"
     imageTitle: "A super cool pfp"
     imageWidth: 220
