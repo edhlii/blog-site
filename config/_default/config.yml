@@ -1,0 +1,57 @@
+baseURL: "https://edhlii.github.io"
+title: "edhlii's Blog"
+theme: ["PaperMod"]
+
+# ShowToc: true
+
+menu:
+  main:
+    - name: "Home"
+      pageRef: "/"
+      weight: 1
+    - name: "Blog"
+      pageRef: "/posts/"
+      weight: 2
+    - name: "About"
+      pageRef: "/about/"
+      weight: 3
+    - name: "Search"
+      pageRef: "/search/"
+      weight: 4
+    - name: "Archive"
+      pageRef: "/archive/"
+      weight: 5
+
+params:
+  logo: "/maka-pfp.jpg"
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+  profileMode:
+    enabled: true
+    title: "Le Dinh Hieu"
+    subtitle: An **InfoSec** student at **Posts and Telecommunication Institutes of Technology**
+    imageUrl: "maka-pfp.jpg"
+    imageTitle: "A super cool pfp"
+    imageWidth: 220
+    imageHeight: 220
+
+    buttons:
+      - name: About
+        url: "/about"
+      - name: Codeforces
+        url: "https://codeforces.com/profile/edhlii"
+      - name: Github
+        url: "https://github.com/edhlii"
+
+    socialIcons:
+    - name: "github"
+      url: "https://github.com/edhlii"
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
