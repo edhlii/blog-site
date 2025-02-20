@@ -24,6 +24,7 @@ menu:
 
 params:
   logo: "/maka-pfp.jpg"
+  favicon: "favicon.ico"
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
