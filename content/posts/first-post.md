@@ -2,6 +2,7 @@
 date: "2025-02-20T16:28:32+07:00"
 title: "First Post"
 description: "Like the title have just said!"
+draft: false
 cover:
   image: "maka-pfp.jpg"
 ---
