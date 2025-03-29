@@ -45,10 +45,14 @@ params:
         url: "https://codeforces.com/profile/edhlii"
       - name: Github
         url: "https://github.com/edhlii"
+      - name: Youtube
+        url: "https://youtube.com/@Ledhonthestage"
 
     socialIcons:
     - name: "github"
       url: "https://github.com/edhlii"
+    - name: "youtube"
+      url: "https://youtube.com/@Ledhonthestage"
 
 
 outputs:
